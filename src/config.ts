@@ -7,7 +7,7 @@ export default {
     uefa: {
       cl: {
         gs: 2022,
-        ko: 2021,
+        ko: 2022,
       },
       el: {
         gs: 2022,
